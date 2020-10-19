@@ -1,0 +1,150 @@
+2020-10-10 20:54:02,301 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-10-10 20:54:02,352 51     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Sat Oct 10 20:54:02 CST 2020]; root of context hierarchy
+2020-10-10 20:54:02,417 116    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [Spring.xml]
+2020-10-10 20:54:03,151 850    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 20:54:04,000 1699   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1698 ms
+2020-10-10 20:54:04,059 1758   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2020-10-10 20:54:04,064 1763   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 20:54:04 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 20:54:04,065 1764   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [SpringMVC.xml]
+2020-10-10 20:54:04,263 1962   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 20:54:04,456 2155   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/admin/addAdmin]}" onto public void com.chf.controller.AdminControntroller.addAdmin(com.chf.entiy.Admin)
+2020-10-10 20:54:04,757 2456   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 20:54:04 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 20:54:04,820 2519   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 20:54:04 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 20:54:04,933 2632   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 872 ms
+2020-10-10 20:54:43,939 41638  [bio-8888-exec-4] WARN  ework.web.servlet.PageNotFound  - No mapping found for HTTP request with URI [/survey/admin] in DispatcherServlet with name 'dispatcherServlet'
+2020-10-10 21:41:34,263 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-10-10 21:41:34,324 61     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Sat Oct 10 21:41:34 CST 2020]; root of context hierarchy
+2020-10-10 21:41:34,368 105    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [Spring.xml]
+2020-10-10 21:41:34,975 712    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 21:41:35,562 1299   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1298 ms
+2020-10-10 21:41:35,600 1337   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2020-10-10 21:41:35,603 1340   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:41:35 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:41:35,603 1340   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [SpringMVC.xml]
+2020-10-10 21:41:35,774 1511   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 21:41:36,080 1817   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/admin/add]}" onto public void com.chf.controller.AdminController.addAdmin()
+2020-10-10 21:41:36,539 2276   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:41:35 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:41:36,646 2383   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:41:35 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:41:36,923 2660   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 1323 ms
+2020-10-10 21:54:36,611 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-10-10 21:54:36,664 53     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Sat Oct 10 21:54:36 CST 2020]; root of context hierarchy
+2020-10-10 21:54:36,712 101    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [Spring.xml]
+2020-10-10 21:54:37,157 546    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 21:54:37,816 1205   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1204 ms
+2020-10-10 21:54:37,846 1235   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2020-10-10 21:54:37,848 1237   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:54:37 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:54:37,849 1238   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [SpringMVC.xml]
+2020-10-10 21:54:37,980 1369   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 21:54:38,188 1577   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/admin/add]}" onto public void com.chf.controller.AdminController.addAdmin()
+2020-10-10 21:54:38,544 1933   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:54:37 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:54:38,597 1986   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Sat Oct 10 21:54:37 CST 2020]; parent: Root WebApplicationContext
+2020-10-10 21:54:38,716 2105   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 870 ms
+2020-10-10 22:04:35,897 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-10-10 22:04:35,972 75     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Sat Oct 10 22:04:35 CST 2020]; root of context hierarchy
+2020-10-10 22:04:36,020 123    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [Spring.xml]
+2020-10-10 22:04:36,496 599    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-10-10 22:04:37,306 1409   [ost-startStop-1] ERROR pring.mapper.MapperFactoryBean  - Error while adding the mapper 'interface com.chf.mapper.AdminMapper' to configuration.
+java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+	at org.apache.ibatis.session.Configuration$StrictMap.put(Configuration.java:872)
+	at org.apache.ibatis.session.Configuration$StrictMap.put(Configuration.java:844)
+	at org.apache.ibatis.session.Configuration.addMappedStatement(Configuration.java:668)
+	at org.apache.ibatis.builder.MapperBuilderAssistant.addMappedStatement(MapperBuilderAssistant.java:302)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parseStatement(MapperAnnotationBuilder.java:351)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:134)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:72)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:741)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:80)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1769)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1706)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:583)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1135)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:583)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:758)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:409)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:291)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-10 22:04:37,335 1438   [ost-startStop-1] WARN  pport.XmlWebApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminService': Unsatisfied dependency expressed through field 'adminMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'adminMapper' defined in file [D:\ideaProject\survey\target\classes\com\chf\mapper\AdminMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+2020-10-10 22:04:37,337 1440   [ost-startStop-1] ERROR work.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminService': Unsatisfied dependency expressed through field 'adminMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'adminMapper' defined in file [D:\ideaProject\survey\target\classes\com\chf\mapper\AdminMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:586)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:758)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:409)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:291)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'adminMapper' defined in file [D:\ideaProject\survey\target\classes\com\chf\mapper\AdminMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1710)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:583)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1135)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:583)
+	... 24 more
+Caused by: java.lang.IllegalArgumentException: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:83)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1769)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1706)
+	... 34 more
+Caused by: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.chf.mapper.AdminMapper.add
+	at org.apache.ibatis.session.Configuration$StrictMap.put(Configuration.java:872)
+	at org.apache.ibatis.session.Configuration$StrictMap.put(Configuration.java:844)
+	at org.apache.ibatis.session.Configuration.addMappedStatement(Configuration.java:668)
+	at org.apache.ibatis.builder.MapperBuilderAssistant.addMappedStatement(MapperBuilderAssistant.java:302)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parseStatement(MapperAnnotationBuilder.java:351)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:134)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:72)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:741)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:80)
+	... 37 more
